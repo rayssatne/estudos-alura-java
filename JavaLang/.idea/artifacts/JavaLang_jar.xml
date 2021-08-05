@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaLang:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaLang_jar</output-path>
+    <root id="archive" name="JavaLang.jar">
+      <element id="module-output" name="JavaLang" />
+    </root>
+  </artifact>
+</component>
