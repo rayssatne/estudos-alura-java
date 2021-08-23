@@ -1,0 +1,16 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ê»¶ûÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(æğïÿÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(©‚¡ıùÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(°’Üœ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(°’Üœ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(°’Üœ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(âí¦ïşÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(µ¾†ºøÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(éú¼°
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(ğ¿–Ùøÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(¼å§ƒøÿÿÿÿ
+q
+java:S1192L"[Define a constant instead of duplicating this literal "Impossivel trocar o canal!" 3 times.(°’Üœ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥È©üÿÿÿÿ
