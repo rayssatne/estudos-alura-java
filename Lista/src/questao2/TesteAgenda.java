@@ -16,9 +16,9 @@ public class TesteAgenda {
         int idade3 = 2;
 
 
-        float altura1 = 0.45f;
-        float altura2 = 0.40f;
-        float altura3 = 0.50f;
+        String altura1 = "0.45";
+        String altura2 = "0.40";
+        String altura3 = "0.50";
 
 
         agenda.armazenaPessoa(nome1, idade1, altura1);

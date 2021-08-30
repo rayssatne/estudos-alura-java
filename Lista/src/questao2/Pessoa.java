@@ -4,9 +4,9 @@ public class Pessoa {
 
         private String nome;
         private int idade;
-        private float altura;
+        private String altura;
 
-        Pessoa(String nome, int idade, float altura){
+        Pessoa(String nome, int idade, String altura){
             this.nome = nome;
             this.idade = idade;
             this.altura = altura;
@@ -15,7 +15,7 @@ public class Pessoa {
             return nome;
         }
 
-        public float getAltura() {
+        public String getAltura() {
             return altura;
         }
 

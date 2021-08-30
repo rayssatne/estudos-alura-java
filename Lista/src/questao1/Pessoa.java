@@ -9,8 +9,8 @@ import java.util.Calendar;
 public class Pessoa {
 
     private String nome;
-    private float altura;
-    String dataDeNascimento;
+    private String altura;
+    private String dataDeNascimento;
 
     public String getNome() {
         return nome;
@@ -20,11 +20,11 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public float getAltura() {
+    public String getAltura() {
         return altura;
     }
 
-    public void setAltura(float altura) {
+    public void setAltura(String altura) {
         this.altura = altura;
     }
 
@@ -37,7 +37,7 @@ public class Pessoa {
     }
 
     public void mostrarDados() {
-        System.out.println("Nome: " + this.getNome());
+        System.out.println("\nNome: " + this.getNome());
         System.out.println("Altura: " + this.getAltura());
         System.out.println("Data de nascimento: " + this.getDataDeNascimento());
     }

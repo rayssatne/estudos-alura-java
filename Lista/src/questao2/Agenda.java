@@ -14,7 +14,7 @@ public class Agenda {
     private List<Pessoa> pessoas = new ArrayList<>();
 
 
-    public boolean armazenaPessoa(String nome, int idade, float altura) {
+    public boolean armazenaPessoa(String nome, int idade, String altura) {
 
         Pessoa p = new Pessoa(nome, idade, altura);
 

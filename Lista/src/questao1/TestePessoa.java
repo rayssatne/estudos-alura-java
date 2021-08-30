@@ -13,9 +13,9 @@ public class TestePessoa {
         pessoa.setNome(scan.nextLine());
 
         System.out.println("Entre com a altura: ");
-        pessoa.setAltura(scan.nextFloat());
+        pessoa.setAltura(scan.nextLine());
 
-        System.out.println("Entre com o dia de nascimento: ");
+        System.out.println("Entre com o dia de nascimento (DD/MM/AAAA): ");
         pessoa.setDataDeNascimento(scan.next());
 
         pessoa.mostrarDados();
